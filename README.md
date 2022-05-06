@@ -14,12 +14,6 @@ A simple text editior/ notepad type of application. The app will be a single-pag
 
 ## Installation
 
-Initially you must have Node installed
-Also have to initiliaze the npm command to install inquirer which is a third party applicationto run the required npms.
-Additional Npms needed are DotEnv, console.table, express, and mysql2.
-After installing these, javascript has to be run from terminal through node in order to launch to the server, which would
-then initiate the prompts to be displayed and answered.
-
 ## Preview
 
 A video for previewing the usage of this application can be found in the following link
