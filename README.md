@@ -25,7 +25,7 @@ Ultimately though, the application will be deployed for public use. This would a
 ## Preview
 
 A video for previewing the usage of this application can be found in the following link
-[Deployed Application link: ]()
+[Deployed Application link: ](https://not-another-notepad.herokuapp.com/)
 
 ![Screenshot of Application](https://user-images.githubusercontent.com/94323045/167522152-c5a62188-4be4-4e2e-9f29-b8fa30d1b6ce.jpg)
 
