@@ -79,12 +79,12 @@ MIT
 
 - Node Js
 - Express
-- Console.Table
-- Mongodb
-- Mongoose
+- Css-Loader
+- Babel
 - Webpack
 - IndexDB
 - idb
+- workbox plugin
 
 ## Questions
 
