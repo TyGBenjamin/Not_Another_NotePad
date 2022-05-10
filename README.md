@@ -14,12 +14,20 @@ A simple text editior/ notepad type of application. The app will be a single-pag
 
 ## Installation
 
+Initially you must have Node installed
+Also have to initiliaze the npm command to install the required dependencies which can
+be found in the package.json file
+Nontheless, All the Npms needed to build application ar DotEnv, console.table, express, and mysql2.
+After installing these, javascript has to be run from terminal through node in order to launch to the server, which would
+then initiate the page.
+Ultimately though, the application will be deployed for public use. This would allow for easier access and a more user-friendly interface.
+
 ## Preview
 
 A video for previewing the usage of this application can be found in the following link
-[Click Here for Video Walkthrough]()
+[Deployed Application link: ]()
 
-![Screenshot of Application]()
+![Screenshot of Application](https://user-images.githubusercontent.com/94323045/167522152-c5a62188-4be4-4e2e-9f29-b8fa30d1b6ce.jpg)
 
 ## User Story
 
