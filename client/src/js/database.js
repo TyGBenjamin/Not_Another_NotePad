@@ -32,8 +32,12 @@ export const getDb = async () => {
   const store = jateData.objectStore("jate");
   const request = store.getAll();
   const result = await request;
-  console.log("result.value", result);
-  console.error("getDb not implemented");
+  if (result) {
+    console.log("result.value", result);
+  } else {
+    console.error("getDb not implemented");
+  }
+  return result;
 };
 
 initdb();
